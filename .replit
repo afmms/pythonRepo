@@ -1,2 +1,2 @@
 language = "python3"
-run = "python coffee-machine.py"
+run = "python hangman.py"
